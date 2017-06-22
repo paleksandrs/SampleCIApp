@@ -25,6 +25,11 @@ class SampleCIAppTests: XCTestCase {
 
         XCTFail("Test failed")
     }
+
+    func testExample2() {
+
+        XCTAssertEqual("a", "a")
+    }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
