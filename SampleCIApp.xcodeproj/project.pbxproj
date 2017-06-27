@@ -344,7 +344,7 @@
 				INFOPLIST_FILE = SampleCIApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = fm.test;
+				PRODUCT_BUNDLE_IDENTIFIER = fm.ask.askfm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -358,7 +358,7 @@
 				INFOPLIST_FILE = SampleCIApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = fm.test;
+				PRODUCT_BUNDLE_IDENTIFIER = fm.ask.askfm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
